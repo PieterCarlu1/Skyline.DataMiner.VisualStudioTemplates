@@ -48,11 +48,13 @@ Template that creates a new DataMiner test package Visual Studio project.
 
 Short name: `dataminer-test-package-project`
 
-### Python script project
+### Scripted connector project
 
-Template that creates a Python scripted connector project.
+Creates a Python based connector script project.
 
-Short name: `dataminer-python-script`
+Language: Python
+
+Short name: `dataminer-connector-script`
 
 ## How to install
 
