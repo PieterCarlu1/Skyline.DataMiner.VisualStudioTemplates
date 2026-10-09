@@ -14,7 +14,7 @@
   "description": "Creates a Python based connector script project",
   "shortName": "dataminer-connector-script",
   "sourceName": "$SCRIPTNAME$",
-  "defaultName": "ScriptedConnector_1",
+  "defaultName": "ConnectorScript_1",
   "preferNameDirectory": true,
   "symbols": {
     "Author": {
